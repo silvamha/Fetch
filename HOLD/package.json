@@ -1,0 +1,18 @@
+{
+  "name": "fetch-refresher",
+  "version": "1.0.0",
+  "description": "Fetch syntax and application refresher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"vite",
+    "build":"vite build"
+
+  },
+  "author": "Ed Silva",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "vite": "^5.4.9"
+  }
+}
